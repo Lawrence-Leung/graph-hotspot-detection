@@ -1,9 +1,14 @@
 # graph-hotspot-detection
 This repository presents my complete undergraduate graduation project (2025) from Guangdong University of Technology (Automation), titled  
-**“Research on Lithography Hotspot Detection Algorithm Based on Deep Learning”**  
-(*《基于深度学习的光刻热点检测算法研究》*), focusing on lithography hotspot detection using deep learning and graph-based methods.
+**“Research on Lithography Hotspot Detection Algorithm Based on Deep Learning”**, focusing on lithography hotspot detection using deep learning and graph-based methods.
 
 The project includes full documentation, implementation code, and trained model weights, aiming to provide a comprehensive reference for research and engineering practice in computational lithography and EDA.
+
+本仓库展示了我在广东工业大学（自动化）完成的本科毕业设计项目（2025年），项目名称为 **“基于深度学习的光刻热点检测算法研究”**。该项目主要研究基于深度学习和图论的光刻热点检测方法。
+
+项目包含完整的文档、实现代码和训练好的模型权重，旨在为计算光刻和EDA领域的研究和工程实践提供全面的参考。
+
+该项目获得2025届自动化学院自动化专业本科毕业设计创新奖（排名：5/10，专家评审组评分：91/100）。
 
 ## 🔍 Overview
 
@@ -112,15 +117,11 @@ You can obtain it from:
 
 ### 1. Training
 
-```
-python src/scripts/train.py
-```
+Source file located at: `src/scripts/Train.py`
 
 ### 2. Testing
 
-```
-python src/scripts/test.py
-```
+Source file located at: `src/scripts/Test.py`
 
 ## 📦 Model Weights
 
