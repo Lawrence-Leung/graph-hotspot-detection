@@ -1,5 +1,7 @@
 # graph-hotspot-detection
-This repository presents my complete undergraduate graduation project (2025) from Guangdong University of Technology (Automation), focusing on lithography hotspot detection using deep learning and graph-based methods.
+This repository presents my complete undergraduate graduation project (2025) from Guangdong University of Technology (Automation), titled  
+**“Research on Lithography Hotspot Detection Algorithm Based on Deep Learning”**  
+(*《基于深度学习的光刻热点检测算法研究》*), focusing on lithography hotspot detection using deep learning and graph-based methods.
 
 The project includes full documentation, implementation code, and trained model weights, aiming to provide a comprehensive reference for research and engineering practice in computational lithography and EDA.
 
@@ -11,8 +13,19 @@ This project explores a **Graph Neural Network (GNN)-based framework** to model 
 
 Key features:
 - Graph-based layout representation
+
+![thumbnail1](README.assets/thumbnail1.jpeg)
+
 - Deep learning-driven hotspot classification
+
+![thumbnail2a](README.assets/thumbnail2a.jpeg)
+
+![thumbnail2b](README.assets/thumbnail2b.jpeg)
+
 - Comparison with prior work (Geng et al., ICCAD 2020)
+
+![thumbnail3](README.assets/thumbnail3.jpeg)
+
 - Full undergraduate research workflow documentation
 
 ## 📁 Repository Structure
@@ -122,7 +135,6 @@ src/models/
 If you are interested in the baseline method:
 
 - Hao Geng, Haoyu Yang, Lu Zhang, Jin Miao, Fan Yang, Xuan Zeng, and Bei Yu. 2020. Hotspot detection via attention-based deep layout metric learning. In Proceedings of the 39th International Conference on Computer-Aided Design (ICCAD '20). Association for Computing Machinery, New York, NY, USA, Article 16, 1–8. https://doi.org/10.1145/3400302.3415661 
-- Yan, H., Wang, Y., Gao, P., Yu, F., Ma, Y., Xiong, X., & Cai, S. (2025). A lightweight heterogeneous graph embedding framework for hotspot detection. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*. 
 
 ## 🏆 Acknowledgement
 
